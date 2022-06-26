@@ -1,0 +1,74 @@
+[
+  {
+    "id": 2,
+    "name": "bag",
+    "price": 10.23,
+    "imgUrl": "/imgs/bag.png"
+  },
+  {
+    "id": 3,
+    "name": "Bicycle",
+    "price": 120.99,
+    "imgUrl": "/imgs/bicycle.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 11000,
+    "imgUrl": "/imgs/car.jpg"
+  },
+  {
+    "id": 5,
+    "name": "fan",
+    "price": 110.0,
+    "imgUrl": "/imgs/fan.png"
+  },
+  {
+    "id": 6,
+    "name": "football",
+    "price": 150.0,
+    "imgUrl": "/imgs/football.jpg"
+  },
+  {
+    "id": 7,
+    "name": "headset",
+    "price": 30.0,
+    "imgUrl": "/imgs/headset.png"
+  },
+  {
+    "id": 8,
+    "name": "kettle",
+    "price": 130.0,
+    "imgUrl": "/imgs/kettle.jpg"
+  },
+  {
+    "id": 9,
+    "name": "laptop",
+    "price": 260.0,
+    "imgUrl": "/imgs/laptop.png"
+  },
+  {
+    "id": 10,
+    "name": "phone",
+    "price": 400.0,
+    "imgUrl": "/imgs/phones.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Printer",
+    "price": 240.0,
+    "imgUrl": "/imgs/Printer.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Radio",
+    "price": 100.0,
+    "imgUrl": "/imgs/Radio.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tshirt",
+    "price": 180.0,
+    "imgUrl": "/imgs/Tshirt.jpg"
+  }
+]
